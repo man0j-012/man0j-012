@@ -51,3 +51,13 @@ Backend Development     ██████████████░░░░�
 Frontend Development    ██████████░░░░░░░░  50%
 Cloud & DevOps          ████████████░░░░░░  70%
 Machine Learning        ███████████░░░░░░░  60%
+
+
+📈 GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=man0j-012&show_icons=true&theme=radical" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=man0j-012&layout=compact&theme=radical" alt="Top Languages"> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=man0j-012&theme=react-dark&area=true" alt="Contribution Graph"> </p>
+💬 Quote of the Day
+
+🌐 Connect with Me
+<p align="center"> <a href="https://www.linkedin.com/in/manoj1205/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:dattumyneni@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://man0j-012.github.io/manoj_myneni/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"> </a> </p>
+⚽ Outside of Tech
+I’m a huge One Piece fan and support FC Barcelona when I'm not coding. Reach out anytime—I’d love to connect!
