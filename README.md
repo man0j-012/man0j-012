@@ -3,11 +3,9 @@
 
 ---
 
-### 👋 About Me
+# 👋 Hi, I'm Manoj Myneni!
 
-Hey there! I’m Manoj Myneni, and my journey in computer science began with **Pokémon Fire Red** on my Gameboy Advance. 🎮 This led to a Bachelor’s in Technology, where I built a foundation in **data structures, computer networks,** and **machine learning**. After graduation, I joined **LTIMindtree** as a **Software Engineer**, working on backend development with **Java, Spring Boot,** and **REST APIs** for **Citibank North America**. 💻
-
-Eager to expand my skills, I pursued a **Master’s in Computer Science** at **University of Illinois Chicago**. Here, I delved into **Computer Vision** and **Human-Robot Interaction**. I also collaborated with **Honda Research Institute USA** on a Unity-based study, boosting user engagement by 27%. 🤖
+My journey in computer science began with my love for gaming, sparked by *Pokémon Fire Red* on my Gameboy Advance 🎮. This passion evolved into a Bachelor’s in Technology, where I laid a solid foundation in data structures, computer networks, and machine learning. Since then, I’ve embraced challenges across multiple domains, learning from mistakes, growing, and always striving to "fail better."
 
 ---
 
@@ -26,21 +24,44 @@ Eager to expand my skills, I pursued a **Master’s in Computer Science** at **U
 
 ---
 
-### 💼 Experience Highlights
-- **Backend Engineering Intern** at **PeakMind** (Google Ventures Startup)  
-   - Worked with **Swift, Firebase, GCP, and Cloudflare** to optimize server performance.
-- **Research Collaborator** at **Argonne National Lab**  
-   - Currently focused on **AI/ML log analysis** for supercomputer failure prediction.
-- **Graduate TA** for **Human-Computer Interaction**  
-   - Assisted students in building user-centric applications, emphasizing UX principles.
+## 💼 Experience Highlights  
+- **Backend Engineering Intern** at **PeakMind** (a Google Ventures startup):  
+  - Optimized server performance using **Swift**, **Firebase**, **GCM**, and **Security Enhancement**.  
+- **Research Collaborator** at **Argonne National Lab**:  
+  - Focused on AI/ML log analysis for predictive failure detection on supercomputers(Theta).  
+- **Graduate TA** for **Human-Computer Interaction**:  
+  - Guided students in building user-centric applications while emphasizing UX principles and human ergonomics.  
+- **President**, **UIC Computer Science Graduate Student Association (CSGSA)**:  
+  - Unified faculty, students, and industry professionals through events like *CS Connect*.  
+  - Collaborated with the Director of Graduate Studies and the Dean of Engineering to address student concerns.  
+- **Microsoft TEALS Mentor**:  
+  - Volunteered to mentor high school students in computer science.
 
 ---
 
+## 🧑‍🔬 Research Highlights
+- **Graduate Research Assistant** at **Honda Research Institute**:  
+  - Designed a 2x2 subject study and developed a Unity-based VR e-scooter simulator to boost user engagement by 27%.  🤖
+- Explored **Distributed Systems Programming**, **VR**, and **UX Research**, learning through experimentation and collaboration.
+
+---
+
+
 ### 🚀 Projects
 - **Peer-to-Peer File Sharing System**  
-   - Developed a distributed file-sharing system inspired by Gnutella, supporting concurrent downloads.
+   - Developed a distributed file-sharing system inspired by Gnutella that supports concurrent downloads.
 - **Capstone on Large Language Models**  
    - Fine-tuning LLMs for **parallel code generation**.
+
+---
+
+## 🌱 Philosophy & Interests
+I believe mistakes are inevitable, but taking ownership and proactively resolving them is what defines us. I thrive on collaboration and helping others, from mentoring students on resumes to contributing to the tech community.
+
+### 🎯 In my free time:
+- Reading research papers 📖  
+- Playing football ⚽  
+- Guiding juniors and mentors toward career clarity, enhancing resumes, and encouraging open-source contributions.💡
 
 ---
 
