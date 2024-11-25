@@ -3,7 +3,7 @@
 
 ---
 
-My journey in computer science began with my love for gaming, sparked by *Pokémon Fire Red* on my Gameboy Advance 🎮. This passion evolved into a Bachelor’s in Technology, where I laid a solid foundation in data structures, computer networks, and machine learning. Since then, I’ve embraced challenges across multiple domains, learning from mistakes, growing, and always striving to "fail better."
+My journey in computer science began with my love for gaming, sparked by *Pokémon Fire Red* on my Gameboy Advance 🎮. This passion evolved into a Bachelor’s in Technology, where I laid a solid foundation in data structures, computer networks, and machine learning. Since then, I have embraced challenges across multiple domains, learning from mistakes, growing, and striving to "fail better."
 
 ---
 
