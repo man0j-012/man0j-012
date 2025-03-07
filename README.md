@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manoj Dattatreya Myneni</h1>
+<h1 align="center">Hi 👋, I am Manoj Dattatreya Myneni</h1>
 <h3 align="center">Backend Developer | AI/ML Enthusiast | Researcher</h3>
 
 ---
