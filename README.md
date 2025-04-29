@@ -42,7 +42,7 @@ My journey in computer science began with my love for gaming, sparked by *Pokém
   - Correlating Job Logs with Hardware Failure on the THETA HPC System. The goal: boost HPC reliability by correlating job logs with hardware-error events to enable predictive maintenance.
   - Skills honed:
   - HPC Systems & DragonFly Topology
-  -  Large-Scale Data Analysis (91k+ jobs, 136k+ errors)
+  -  Large-Scale Distributed System Data Analysis (91k+ jobs, 136k+ errors)
   -  Algorithm Design & Reliability Engineering
 
 ---
