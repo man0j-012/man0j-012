@@ -3,7 +3,7 @@
 
 ---
 
-My journey in computer science began with my love for gaming, sparked by *Pokémon Fire Red* on my Gameboy Advance 🎮. This passion evolved into a Bachelor’s in Technology, where I laid a solid foundation in data structures, computer networks, and machine learning. Since then, I have embraced challenges across multiple domains, learning from mistakes, growing, and striving to "fail better."
+My journey in computer science began with my love for gaming, sparked by *Pokémon Fire Red* on my Gameboy Advance 🎮. Inquisitiveness and yearning to expand my horizons through systems, Computers, algorithms, and Networking has become my second nature since then.  Henceforth, I have embraced challenges across multiple domains, learning from mistakes, growing, and striving to "fail better."
 
 ---
 
@@ -23,12 +23,33 @@ My journey in computer science began with my love for gaming, sparked by *Pokém
 ---
 
 ## 💼 Experience Highlights  
-- **Backend Engineering Intern** at **PeakMind** (a Google Ventures startup):  
-  - Optimized server performance using **Swift**, **Firebase**, **GCM**, and **Security Enhancement**.  
-- **Research Collaborator** at **Argonne National Lab**:  
-  - Focused on AI/ML log analysis for predictive failure detection on supercomputers(Theta).  
-- **Graduate TA** for **Human-Computer Interaction**:  
-  - Guided students in building user-centric applications while emphasizing UX principles and human ergonomics.  
+- **Backend Software Engineer ** at **PeakMind** (a Google Ventures startup - Our mission is to empower individuals with accessible tools to overcome mental health challenges and lead healthier, more fulfilling lives):  
+  -  Boosted Firestore NoSQL query performance by architecting and deploying composite indexes with Terraform, reducing network delay under high-traffic loads.
+- **Software Dev Engineer I** at **LTIMindtree(Enterprise IT Consulting - Worked  Worked on Citibank’s backend infrastructure for credit alert systems)**:  
+  - Spearheaded the development of an asynchronous credit microservice Alert System, transformed the migration of the patch code from batch processing delays to microservices, reducing customer overdrafts by 25%.
+  - Impact: Contributed to a 15% increase in company revenue.
+- **Associate Software Engineer** for **Larsen and Toubro Infotech**:  
+  - Engaged in all phases of the "Credit Alert Notification System "project, Software Development Life Cycle: planned, designed, implemented, tested, and deployed
+  - Analyzed core modules of the 80k+ LOC Credit Alert System, identifying error-handling inefficiencies flagged for senior review.
+
+ ---
+
+## 🧑‍🔬 Research Experience Highlights
+- **Graduate Research Assistant** at **Honda Research Institute**:  
+  -  Assisted in developing VR simulations in Unity, leveraging NavigationMesh to model autonomous robot behavior in urban settings.
+  -  Liaised with Honda Research Institute. Optimized excessive CPU usage and GPU rendering overhead by refactoring scene objects, resulting in a 27% performance boost.🤖
+- **MS Project Collaborated with **Argonne National Lab**:
+- Correlating Job Logs with Hardware Failure on the THETA HPC System. The goal: boost HPC reliability by correlating job logs with hardware-error events to enable predictive maintenance.
+  - Skills honed:
+  - HPC Systems & DragonFly Topology
+  -  Large-Scale Data Analysis (91k+ jobs, 136k+ errors)
+  -  Algorithm Design & Reliability Engineering
+
+---
+
+  
+##  Leadership Experience
+
 - **President**, **UIC Computer Science Graduate Student Association (CSGSA)**:  
   - Unified faculty, students, and industry professionals through events like *CS Connect*.  
   - Collaborated with the Director of Graduate Studies and the Dean of Engineering to address student concerns.  
@@ -37,29 +58,12 @@ My journey in computer science began with my love for gaming, sparked by *Pokém
 
 ---
 
-## 🧑‍🔬 Research Highlights
-- **Graduate Research Assistant** at **Honda Research Institute**:  
-  - Designed a 2x2 subject study and developed a Unity-based VR e-scooter simulator to boost user engagement by 27%.  🤖
-- Explored **Distributed Systems Programming**, **VR**, and **UX Research**, learning through experimentation and collaboration.
-
----
-
-
-### 🚀 Projects
-- **Peer-to-Peer File Sharing System**  
-   - Developed a distributed file-sharing system inspired by Gnutella that supports concurrent downloads.
-- **Capstone on Large Language Models**  
-   - Fine-tuning LLMs for **parallel code generation**.
-
----
-
 ## 🌱 Philosophy & Interests
 I believe mistakes are inevitable, but taking ownership and proactively resolving them is what defines us. I thrive on collaboration and helping others, from mentoring students on resumes to contributing to the tech community.
 
 ### 🎯 In my free time:
-- Reading research papers 📖  
-- Playing football ⚽  
-- Guiding juniors and mentors toward career clarity, enhancing resumes, and encouraging open-source contributions.💡
+- If I am not working, you can find me at the Soccer Park⚽  
+- Guiding junior peers toward career clarity, enhancing resumes, and encouraging open-source contributions.💡
 
 ---
 
