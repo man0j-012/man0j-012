@@ -38,7 +38,7 @@ My journey in computer science began with my love for gaming, sparked by *Pokém
 - Graduate Research Assistant** at **Honda Research Institute**:  
   -  Assisted in developing VR simulations in Unity, leveraging NavigationMesh to model autonomous robot behavior in urban settings.
   -  Liaised with Honda Research Institute. Optimized excessive CPU usage and GPU rendering overhead by refactoring scene objects, resulting in a 27% performance boost.🤖
-- **MS Project Collaborated with **Argonne National Lab**:
+- MS Project Collaborated with **Argonne National Lab**:
   - Correlating Job Logs with Hardware Failure on the THETA HPC System. The goal: boost HPC reliability by correlating job logs with hardware-error events to enable predictive maintenance.
   - Skills honed:
   - HPC Systems & DragonFly Topology
