@@ -25,7 +25,7 @@ My journey in computer science began with my love for gaming, sparked by *Pokém
 ## 💼 Experience Highlights  
 - Backend Software Engineer at PeakMind (a Google Ventures startup - Our mission is to empower individuals with accessible tools to overcome mental health challenges and lead healthier, more fulfilling lives):  
   -  Boosted Firestore NoSQL query performance by architecting and deploying composite indexes with Terraform, reducing network delay under high-traffic loads.
-- **Software Dev Engineer I** at **LTIMindtree(Enterprise IT Consulting - Worked  Worked on Citibank’s backend infrastructure for credit alert systems)**:  
+- **Software Dev Engineer I** at **LTIMindtree (Enterprise IT Consulting - Worked  Worked on Citibank’s backend infrastructure for credit alert systems)**:  
   - Spearheaded the development of an asynchronous credit microservice Alert System, transformed the migration of the patch code from batch processing delays to microservices, reducing customer overdrafts by 25%.
   - Impact: Contributed to a 15% increase in company revenue.
 - **Associate Software Engineer** for **Larsen and Toubro Infotech**:  
