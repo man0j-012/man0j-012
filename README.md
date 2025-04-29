@@ -62,7 +62,7 @@ My journey in computer science began with my love for gaming, sparked by *Pokém
 I believe mistakes are inevitable, but taking ownership and proactively resolving them is what defines us. I thrive on collaboration and helping others, from mentoring students on resumes to contributing to the tech community.
 
 ### 🎯 In my free time:
-- If I am not working, you can find me at the Soccer Park⚽  
+- You can find me catching Pokémon and filling up my Pokedex. 
 - Guiding junior peers toward career clarity, enhancing resumes, and encouraging open-source contributions.💡
 
 ---
