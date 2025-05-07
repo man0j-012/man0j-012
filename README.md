@@ -60,17 +60,6 @@ I believe mistakes are inevitable, but taking ownership and proactively resolvin
 
 ---
 
-### 📈 GitHub Activity
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=man0j-012&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=man0j-012&layout=compact&theme=radical" alt="Top Languages"> 
-</p> 
-<p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=man0j-012&theme=react-dark&area=true" alt="Contribution Graph"> 
-</p>
-
----
-
 ### 💬 Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
