@@ -7,7 +7,7 @@ My journey in computer science began with my love for gaming, sparked by *Pokém
 
 ---
 
-### 🛠️ Techie Skills
+### 🛠️ T Skills
 <p align="center">
   <img src="Skills.png" alt="Tech Stack Overview" width="800"/>
 </p>
