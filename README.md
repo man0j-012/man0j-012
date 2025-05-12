@@ -79,4 +79,4 @@ I believe mistakes are inevitable, but taking ownership and proactively resolvin
 </p>
 
 ### ⚽ Outside of Tech
-When I’m not coding, I’m a huge **One Piece** fan and support **FC Barcelona**. Reach out anytime—I’d love to connect!
+When I am not coding, I am a huge **One Piece** fan and support **FC Barcelona**. Reach out anytime, I would love to connect!
