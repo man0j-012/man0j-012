@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Manoj Dattatreya Myneni</h1>
-<h3 align="center">Backend Developer | Distributed Systems Engineer | Machine Learning Engineer</h3>
+<h3 align="center">Backend Developer | Distributed Systems Engineer | Machine Learning Engineer | Love Coding which helps me in solving human problems! | I am an empathetic engineer</h3>
 
 ---
 
