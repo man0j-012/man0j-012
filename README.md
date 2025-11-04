@@ -16,27 +16,31 @@ My journey in computer science began with my love for gaming, sparked by *Pokém
 ---
 
 ## 💼 Experience Highlights  
-- **Backend Software Engineer** at **PeakMind (a Google Ventures startup - Our mission is to empower individuals with accessible tools to overcome mental health challenges and lead healthier, more fulfilling lives)**:  
-  -  Boosted Firestore NoSQL query performance by architecting and deploying composite indexes with Terraform, reducing network delay under high-traffic loads.
-- **Software Dev Engineer I** at **LTIMindtree (Enterprise company -  Worked on Citibank’s backend infrastructure for credit alert systems)**:  
-  - Spearheaded the development of an asynchronous credit microservice Alert System, transformed the migration of the patch code from batch processing delays to microservices, reducing customer overdrafts by 25%.
-  - Impact: Contributed to a 15% increase in company revenue.
-- **Associate Software Engineer** for **Larsen and Toubro Infotech**:  
-  - Engaged in all phases of the "Credit Alert Notification System "project, Software Development Life Cycle: planned, designed, implemented, tested, and deployed
-  - Analyzed core modules of the 80k+ LOC Credit Alert System, identifying error-handling inefficiencies flagged for senior review.
+- **Robotics Software Engineer** at **University of Illinois Chicago – Learning + Interest + Technology (LIT) Lab** *(Autonomous Robotics & Motion Systems Research Group)*:  
+  - Developed and optimized **C++ modules in ROS** for autonomous robot navigation, integrating motion planning, perception, and localization pipelines to improve path accuracy and reliability.  
+  - Calibrated and tuned **LIDAR, GPS, and ultrasonic sensors**, refining fusion filters and performing A/B testing to achieve a **20% improvement in localization precision**.  
+  - Diagnosed subsystem issues by analyzing telemetry logs and **CAN bus communication**, reducing operational failures by **28%** and improving fleet stability.  
+  - Collaborated with hardware researchers on firmware and actuator control optimization to ensure seamless hardware–software integration.
 
- ---
+- **Software Development Engineer** at **LTIMindtree (Enterprise Project – Citibank North America Credit Infrastructure)**:  
+  - Designed backend infrastructure for the **Advanced Analytics Workbench** using **Java, Spring Boot, and AWS PCF**, integrating an AngularJS SPA and Kafka to process 500K+ customer profiles.  
+  - Re-architected a **batch-based credit alert system** into an **asynchronous microservice pipeline**, reducing customer overdrafts by **25%** and increasing throughput by 3×.  
+  - Optimized **PostgreSQL schema and API performance**, securing 400K+ API calls and cutting query latency by **80%**.  
+  - Improved Agile release quality by **35%** through Jira-driven technical-debt reviews and automated test coverage.
 
-## 🧑‍🔬 Research Experience Highlights
-- Graduate Research Assistant at **Honda Research Institute**:  
-  -  Assisted in developing VR simulations leveraging NavigationMesh to model autonomous robot behavior in urban settings.
-  -  Liaised with Honda Research Institute. Optimized excessive CPU usage and GPU rendering overhead by refactoring scene objects, resulting in a 27% performance boost.🤖
-- MS Project Collaborated with **Argonne National Lab**:
-  - Correlating Job Logs with Hardware Failure on the THETA HPC System. The goal: boost HPC reliability by correlating job logs with hardware-error events to enable predictive maintenance.
-  - Skills honed:
-  - HPC Systems & DragonFly Topology
-  -  Large-Scale Distributed System Data Analysis (91k+ jobs, 136k+ errors)
-  -  Algorithm Design & Reliability Engineering
+---
+
+## 🧑‍🔬 Research Experience Highlights  
+- **Graduate Research Assistant** at **Honda Research Institute (UIC Human-Centered Engineering Lab Collaboration)**:  
+  - Engineered **VR simulations in Unity (C#)** to model human–robot interaction scenarios like battery sharing and navigation confirmation in urban mobility contexts.  
+  - Built modular, OOP-driven scripts using **finite state machines**, validated robot behavior through **GSR-based physiological feedback** from 50+ participants.  
+  - Optimized CPU/GPU rendering using **Unity Profiler**, reducing overhead by **27%** via scene refactoring, object pooling, and shader batching. 🤖  
+
+- **MS Research Project – Argonne National Laboratory (Theta Supercomputer)**:  
+  - Correlated **HPC job logs with hardware-error events** on the Theta system to enable predictive maintenance and enhance system reliability.  
+  - Processed **91K+ job records** and **136K hardware-fault logs** using Python-based data analysis pipelines.  
+  - Strengthened skills in **HPC systems**, **DragonFly topology**, **large-scale distributed data analysis**, and **algorithmic reliability engineering**.
+
 
 ---
 
