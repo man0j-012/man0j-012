@@ -32,9 +32,9 @@ My journey in computer science began with my love for gaming, sparked by *Pokém
 
 ## 🧑‍🔬 Research Experience Highlights  
 - **Graduate Research Assistant** at **Honda Research Institute (UIC Human-Centered Engineering Lab Collaboration)**:  
-  - Engineered **VR simulations in Unity (C#)** to model human–robot interaction scenarios like battery sharing and navigation confirmation in urban mobility contexts.  
+  - Engineered **VR simulations to model human–robot interaction scenarios like battery sharing and navigation confirmation in urban mobility contexts.  
   - Built modular, OOP-driven scripts using **finite state machines**, validated robot behavior through **GSR-based physiological feedback** from 50+ participants.  
-  - Optimized CPU/GPU rendering using **Unity Profiler**, reducing overhead by **27%** via scene refactoring, object pooling, and shader batching. 🤖  
+  - Optimized CPU/GPU rendering,  reducing overhead by **27%** via scene refactoring, object pooling, and shader batching. 🤖  
 
 - **MS Research Project – Argonne National Laboratory (Theta Supercomputer)**:  
   - Correlated **HPC job logs with hardware-error events** on the Theta system to enable predictive maintenance and enhance system reliability.  
