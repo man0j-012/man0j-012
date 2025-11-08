@@ -56,7 +56,7 @@ My journey in computer science began with my love for gaming, sparked by Pokémo
 ---
 
 ## 🌱 Philosophy & Interests
-I believe mistakes are inevitable, but taking ownership and proactively resolving them is what defines us. I thrive on collaboration and helping others, from mentoring students on resumes to contributing to the tech community.
+ Mistakes are inevitable, but taking ownership and proactively resolving them is what defines us. I thrive on collaboration and helping others, from mentoring students on resumes to contributing to the tech community.
 
 ### 🎯 In my free time:
 - You can find me catching Pokémon and filling up my Pokedex. 🎮
