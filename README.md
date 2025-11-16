@@ -3,8 +3,7 @@
 
 ---
 
-My journey in computer science began with my love for gaming, sparked by Pokémon Fire Red on my Game Boy Advance 🎮. Inquisitiveness and yearning to expand my horizons through systems, computers, and algorithms have become my second nature since then.  Henceforth, I have embraced challenges across multiple domains, learning from mistakes, growing, and striving to "fail better." Work at HALT!!!
-
+My journey in computer science began with my love for gaming, sparked by Pokémon Fire Red on my Game Boy Advance 🎮. Inquisitiveness and yearning to expand my horizons through systems, computers, and algorithms have become my second nature since then.  Henceforth, I have embraced challenges across multiple domains, learning from mistakes, growing, and striving to "fail better." 
 ---
 
 ### 🛠️ T Skills
