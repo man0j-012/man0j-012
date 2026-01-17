@@ -24,7 +24,7 @@ My journey in computer science began with my love for gaming, sparked by Pokémo
 - **Software Development Engineer** at **LTIMindtree (Enterprise Project – Citibank North America Credit Infrastructure)**:  
   - Designed backend infrastructure for the **Advanced Analytics Workbench** using **Java, Spring Boot, and AWS PCF**, integrating an AngularJS SPA and Kafka to process 500K+ customer profiles.  
   - Re-architected a **batch-based credit alert system** into an **asynchronous microservice pipeline**, reducing customer overdrafts by **25%** and increasing throughput by 3×.  
-  - Optimized **PostgreSQL schema and API performance**, securing 400K+ API calls and cutting query latency by **80%**.  
+  - Optimized **PostgreSQL schema and API performance**, securing 400K+ API calls and reducing query latency by **80%**.  
   - Improved Agile release quality by **35%** through Jira-driven technical-debt reviews and automated test coverage.
 
 ---
